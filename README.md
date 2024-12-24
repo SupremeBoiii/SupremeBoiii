@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @SupremeBoiii
-- 👀 I’m interested in Wii U modding
+- 👀 I’m interested in Nintendo Switch modding
 - 🌱 I’m currently learning Python , Java , C And C++
-- 💞️ I’m looking to collaborate on Making the netflix app on Wii U Work
